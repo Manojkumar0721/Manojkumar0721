@@ -26,7 +26,6 @@ Computer Science Engineering graduate focused on building backend applications w
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### Backend Development
@@ -77,22 +76,6 @@ A Spring Boot backend application designed to manage tasks through RESTful APIs.
 - Authentication, authorization, validation, and automated testing.
 
 [View Repository →](https://github.com/Manojkumar0721/taskflow-backend-api)
-
-### MyTrain
-
-A Java and Spring Boot project focused on train search and booking workflows, with database integration.
-
-**Key Technologies:** Java, Spring Boot, MySQL, JPQL, Swagger, React.
-
-[Explore Repositories →](https://github.com/Manojkumar0721?tab=repositories)
-
-### Currency Exchange Rate Service
-
-A project focused on currency exchange rate functionality and backend service development.
-
-**Key Technologies:** Java, Spring Boot, PostgreSQL, Docker.
-
-[Explore Repositories →](https://github.com/Manojkumar0721?tab=repositories)
 
 ---
 
